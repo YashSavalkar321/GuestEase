@@ -1,4 +1,4 @@
-# Genesis - Hotel Taj Management System
+# GuestEase - Hotel Taj Management System
 
 A console-based Hotel Management System built in C++ that allows customers to register, login, order food, book rooms, and provides an admin panel for hotel staff. This project demonstrates **basic system design principles** like layered architecture, separation of concerns, and file-based persistence.
 
