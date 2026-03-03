@@ -128,7 +128,7 @@ public:
   }
 
   void inti(void) {
-    cout << "Enter number     :";
+    cout << "Enter number for placing order:     :";
     cin >> C;
     if (C >= 1 && C < 8) {
       count++;
